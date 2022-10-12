@@ -10,3 +10,5 @@ edition = "2021"
 [dependencies]
 #actix-webとは、
 actix-web = "4"
+#rocketとは、
+rocket = "0.5.0-rc.1"
